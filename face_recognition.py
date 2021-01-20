@@ -118,4 +118,5 @@ while(iter1<num_of_sample):
         cv2.waitKey(5)
 
 vid.release()
-cv2.destroyAllWindows()
+cv2.destroyAllWindows() #destroying all windows
+
